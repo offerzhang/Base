@@ -8,6 +8,7 @@ import java.util.Date;
  * To: 真常应物，真常得性，常清常静，常清静矣
  */
 public class X {
+    // 时间相加测试
     public static void main(String[] args) {
         long l = System.currentTimeMillis();
         System.out.println(l);
